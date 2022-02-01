@@ -1,6 +1,6 @@
 ﻿//Найти максимум
 int a = 1;
-int b = 9;
+int b = 99;
 int c = 6;
 int d = 8;
 int e = 4;
