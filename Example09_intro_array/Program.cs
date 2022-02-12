@@ -6,8 +6,8 @@
     return result;
 }
 
-int[] array = { 1, 56, 3, 57, 89, 6, 12, 8, 987654321 };
-array[0] = 12;
+int[] array = { 1, 56, 3, 57, 89, 6, 12, 8, 2 };
+array[7] = 969;
 
 //int max1 = TT (a1, b1, c1);
 //int max2 = TT (a2, b2, c2);
